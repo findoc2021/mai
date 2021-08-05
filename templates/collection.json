@@ -1,0 +1,17 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner"
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "subheading": "{{ product.metafields.descriptors.subtitle.value }}" 
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid"
+  ]
+}
