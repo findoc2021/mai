@@ -1,0 +1,91 @@
+{
+  "current": {
+    "accent_icons": "outline-button",
+    "social_facebook_link": "Htpps:\/\/Facebook.com\/",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "8920e8c9-9a76-4b1d-b187-74269145e16b": {
+            "type": "announcement",
+            "settings": {
+              "text": "Добро пожаловать!",
+              "color_scheme": "background-1",
+              "link": "shopify:\/\/pages\/about-as"
+            }
+          },
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "IrenFashion.shop. Наложенный платеж Укрпочта и новая почта (предоплата 100 грн) тел +380508050284",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/policies\/terms-of-service"
+            }
+          },
+          "3fb252e2-b33e-472d-970b-95f827dff66f": {
+            "type": "announcement",
+            "settings": {
+              "text": "Возврат и обмен в течении 30 дней после покупки!",
+              "color_scheme": "background-1",
+              "link": "shopify:\/\/pages\/vozvrat-i-obmen"
+            }
+          }
+        },
+        "block_order": [
+          "8920e8c9-9a76-4b1d-b187-74269145e16b",
+          "announcement-bar-0",
+          "3fb252e2-b33e-472d-970b-95f827dff66f"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/pinterest_board_photo.png",
+          "logo_width": 60,
+          "logo_position": "top-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Помощь клиентам",
+              "menu": "footer"
+            }
+          },
+          "af300573-631c-4276-b480-99068ee2dba3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/a5defe7405da82935d12f3edcfd3d96a_b1d1c345-cc8b-4c08-bea0-0f9bf3ddb9df.jpg",
+              "image_width": 100,
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "af300573-631c-4276-b480-99068ee2dba3"
+        ],
+        "settings": {
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
+          "newsletter_heading": "Подписывайтесь на новостную рассылку, информируем о скидках, новинках и тенденциях!",
+          "show_social": true,
+          "enable_country_selector": true,
+          "enable_language_selector": true,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}

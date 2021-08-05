@@ -1,0 +1,190 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Женские модные летние платья сезона 2021!"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Подробнее",
+            "button_link_1": "shopify:\/\/collections\/zhenskie-platya-bolshikh-razmerov-optom-i-rozniczu-xxl",
+            "button_style_secondary_1": false,
+            "button_label_2": "Заказать",
+            "button_link_2": "shopify:\/\/pages\/about_as",
+            "button_style_secondary_2": false
+          }
+        },
+        "3a1cc396-5588-44ce-a50d-d948d6d6329d": {
+          "type": "text",
+          "settings": {
+            "text": "Пляжные накидки, парео, платья и костюмы!"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button",
+        "3a1cc396-5588-44ce-a50d-d948d6d6329d"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MyCollages_2_a057b695-a070-402c-a54a-e5111229c0fe.jpg",
+        "image_2": "shopify:\/\/shop_images\/MyCollages_4.jpg",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Новинки сезона 2021!",
+        "collection": "zhenskie-platya-bolshih-razmerov-sobstvennogo-proizvodstva-samye-goryachie-novinki-zhenskih-platev-kostyumov-bluzok-dzhemperov-tunik",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_vendor": true
+      }
+    },
+    "image_text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Модели производства нашей фабрики!"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Модели",
+            "button_link": "shopify:\/\/collections\/zhenskie-platya-bolshih-razmerov-nalozhennym-platezhom"
+          }
+        },
+        "1c1ad2b9-9aa9-4630-ad67-c293e35fa67c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>﻿уже на протжнии 22 лет наши модльеры и швеи трудятся на элегантной, недорогой женской одеждой бошьших разеров! Модели нашего производста продаются наложенным платежом! Замена или обменпроизводятся уведомлению магазина! Скоро осенье новинки!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button",
+        "1c1ad2b9-9aa9-4630-ad67-c293e35fa67c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/SAVE_20210626_114238.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1628204174b90c6428": {
+      "type": "image-banner",
+      "blocks": {
+        "1628204174b90c6428-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Летние платья наложенным платежом!"
+          }
+        },
+        "1628204174b90c6428-1": {
+          "type": "text",
+          "settings": {
+            "text": "Для товаров нашего. Производства (IrenFahion) всегда отправляются наложенным платежом! Так же в нашем магазине вы можете встретить товары производста иностранных производителей и украинских лидеров рынка! Они отпускаются при наличии предоплаты не менее 50% стоимости моделей!"
+          }
+        },
+        "1628204174b90c6428-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Правила магазина",
+            "button_link_1": "shopify:\/\/policies\/shipping-policy",
+            "button_style_secondary_1": false,
+            "button_label_2": "Коллекции женской одежды",
+            "button_link_2": "shopify:\/\/collections",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1628204174b90c6428-0",
+        "1628204174b90c6428-1",
+        "1628204174b90c6428-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/ANY_2920.jpg",
+        "image_2": "shopify:\/\/shop_images\/IMG_3521.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": true
+      }
+    },
+    "16282050414252e21e": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1628205071928c9169": {
+      "type": "collage",
+      "blocks": {
+        "1628205071928c9169-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/MyCollages_3.jpg",
+            "video_url": "https:\/\/youtu.be\/Zgw8UYPd8g8",
+            "description": "Промо ролик наших моделей",
+            "image_padding": false
+          }
+        },
+        "1628205071928c9169-1": {
+          "type": "product",
+          "settings": {
+            "product": "летнее-легкое-женское-платье-м-352",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": true
+          }
+        },
+        "1628205071928c9169-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "odezhda-po-optovym-cenam",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1628205071928c9169-0",
+        "1628205071928c9169-1",
+        "1628205071928c9169-2"
+      ],
+      "settings": {
+        "heading": "Трикотажные платья!",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_products",
+    "image_text",
+    "1628204174b90c6428",
+    "16282050414252e21e",
+    "1628205071928c9169"
+  ]
+}
